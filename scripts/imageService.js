@@ -1,4 +1,4 @@
-const clientID = "OVy-9pCWBFCL8lwLKpUkQUAGoeJ9Fe7cF0Kt2tkbL00";
+const clientID = "00pUCYQQsfQFdw0jLGAyQz5xhz_wbP0EasNG65foIy4";
 //this is the client id given by unsplash
 const URL = "https://api.unsplash.com"; //we hit this API
 const call = (url, body, method = "GET") => {
